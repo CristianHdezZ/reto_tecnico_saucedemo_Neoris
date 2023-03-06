@@ -68,7 +68,7 @@ Para instalar el proyecto deben seguir los siguientes pasos:
 **1. Clonar el proyecto**
 
 ```
-git clone 
+git clone https://github.com/CristianHdezZ/reto_tecnico_saucedemo_Neoris.git
 ```
 
 **2. Abrir el proyecto**
