@@ -91,7 +91,15 @@ gradle clean test aggregate --info
 **3.2 A través de IDE** 
   
 Si se desea realizar la ejecución a través del IDE de desarrollo, se debe seleccionar la clase **"SaucedemoRunner.class"** y dar clic derecho, seleccionar la opción que permita correr la prueba. 
-  
+
+
+
+## Video de configuracion y ejecución:
+
+[![Watch the video](img.png)](https://drive.google.com/file/d/1347TEIUA9k8E0DQ2gLVJ9ZzH3-8DP2kt/view?usp=sharing)
+
+
+
 ---
   
 ---
